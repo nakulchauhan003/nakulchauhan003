@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI and Database**
 
-- 📫 How to reach me **nakulchauhan300@gmail.com**
+- 📫 How to reach me **nakulchauhan400@gmail.com**
 
 - ⚡ Fun fact **I think i am good learner**
 
