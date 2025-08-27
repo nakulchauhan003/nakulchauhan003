@@ -53,6 +53,20 @@
   <!-- Data Analysis -->
 <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="data analysis" width="40" height="40"/> </a> 
+  <!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/> 
+</a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/> 
+</a>
 </p>
 
 
@@ -65,6 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nakulchauhan003&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakulchauhan003&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+
+
+
+
+
