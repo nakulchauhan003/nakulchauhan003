@@ -50,6 +50,9 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   </a>
+  <!-- Data Analysis -->
+<a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="data analysis" width="40" height="40"/> </a> 
 </p>
 
 
