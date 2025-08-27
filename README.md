@@ -67,6 +67,22 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/> 
 </a>
+<!-- Artificial Intelligence -->
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="Artificial Intelligence" width="40" height="40"/>
+</a>
+
+<!-- Machine Learning (TensorFlow logo) -->
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Machine Learning" width="40" height="40"/>
+</a>
+
+<!-- Generative AI (Creative colored icon) -->
+<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/414/414927.png" alt="Generative AI" width="40" height="40"/>
+</a>
+
+
 </p>
 
 
