@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=nakulchauhan003&label=Profile%20views&color=blueviolet&style=flat-square" alt="nakulchauhan003" /> 
 </p>
 
-- 🌱 I’m currently learning **AI and Database**
+- 🌱 I’m currently working in **AI and Database**
 
 - 📫 How to reach me **nakulchauhan400@gmail.com**
 
