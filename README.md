@@ -29,7 +29,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-chauhan-504312249/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nakulchauhan)
   [![Gmail](https://img.shields.io/badge/nakulchauhan400@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakulchauhan400@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nakul-chauhan-portfolio.vercel.app/)
   
 </div>
 
