@@ -35,8 +35,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 👨‍💻 About Me
 
 ```python
@@ -69,7 +67,10 @@ me.say_hi()
 
 <br clear="right"/>
 
+
 ---
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🎯 What I'm Up To
 
