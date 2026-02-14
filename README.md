@@ -35,7 +35,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
 
@@ -44,8 +44,8 @@ class NakulChauhan:
     def __init__(self):
         self.name = "Nakul Chauhan"
         self.role = "AI & Full Stack Developer"
-        self.location = "Dehradun, India 🇮🇳"
-        self.education = "Computer Science"
+        self.location = "Meerut, India"
+        self.education = "Computer Science with specialization in Artificial Intelligence"
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
